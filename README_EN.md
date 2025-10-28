@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Cryptography](https://img.shields.io/badge/Cryptography-AES--256-green.svg)](https://cryptography.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 English | [Русский](README.md)
 
