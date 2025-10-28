@@ -55,7 +55,7 @@ python decompilermessages.py
 ## 📁 Структура проекта
 
 ```
-decmes-rgb/
+dec-mes/
 ├── decompilermessages.py    # Основной скрипт
 ├── secret.key              # Ключ шифрования (создается автоматически)
 ├── decmes_log.txt          # Лог всех действий
@@ -107,8 +107,8 @@ decmes-rgb/
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/yourusername/decmes-rgb.git
-   cd decmes-rgb
+   https://github.com/DevBasi/DEC-MES.git
+   cd dec-mes
    ```
 
 2. **Установите зависимости:**
