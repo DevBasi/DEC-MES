@@ -55,7 +55,7 @@ python decompilermessages.py
 ## 📁 Project Structure
 
 ```
-decmes-rgb/
+dec-mes/
 ├── decompilermessages.py    # Main script
 ├── secret.key              # Encryption key (created automatically)
 ├── decmes_log.txt          # All actions log
@@ -107,8 +107,8 @@ decmes-rgb/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/decmes-rgb.git
-   cd decmes-rgb
+   git clone https://github.com/DevBasi/DEC-MES.git
+   cd dec-mes
    ```
 
 2. **Install dependencies:**
