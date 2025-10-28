@@ -107,7 +107,7 @@ dec-mes/
 
 1. **Клонируйте репозиторий:**
    ```bash
-   https://github.com/DevBasi/DEC-MES.git
+   git clone https://github.com/DevBasi/DEC-MES.git
    cd dec-mes
    ```
 
